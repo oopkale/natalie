@@ -1,0 +1,73 @@
+.wow{
+    text-align: center;
+   font-family: 'Bebas Neue', cursive;
+ 
+}
+img{
+    display: block; 
+   margin-left:auto;
+   margin-right: auto;
+  width: 40%;
+ 
+}
+body{ background-color: lightskyblue;
+}
+h1 {
+  font-size: 100px;
+  text-align: left;
+   font-family: 'Bebas Neue', cursive;
+}
+.definition{
+    color: black;
+}
+ul{
+  list-style: circle;
+}
+.header{
+    background: mediumpurple;
+    padding-left:20px;
+    margin-top:1px;
+    color: white;
+}
+.reasons{
+    font-size: 25px;
+    font-family: 'Bebas Neue', cursive;
+}
+.ending{
+    text-align: left;
+    font-family: 'Bebas Neue', cursive;
+}
+.flex-container{
+    display:flex;
+    flex-direction: row;
+     background-color: slateblue;
+     font-size: 100px;
+     font-family: 'Bebas Neue', cursive;
+}
+.footer {
+    background: blueviolet;
+    color: white;
+    font-size: 20px;
+}
+button{
+ border-radius: 12px;
+ padding: 14px 40px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  background-color: #008CBA;
+   opacity: 0.6;
+  cursor: not-allowed;
+  width: 100%;
+  border: 2px solid #4CAF50;
+}
+ .button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+ 
